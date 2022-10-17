@@ -1,4 +1,4 @@
-# Docker Open Broadcaster Software (OBS 20)
+# Docker Open Broadcaster Software (OBS 28)
 Repo is forked from bandi13's obs docker [repo](https://github.com/bandi13/docker-obs). Using OBS 28.0.3
 
 This container is based on [nkostic/ubuntu-gui-docker](https://github.com/nkostic/ubuntu-gui-docker). The OBS is incorporated into the container and can be used to stream your desktop.
